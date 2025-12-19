@@ -10,7 +10,7 @@ Seriously, it's v1.0
         - can execute external programs
 
 ## How to Run
-Run the following command:
+Run the following command after copying the code into your file:
 ```bash
 make file_name
 ./file_name
